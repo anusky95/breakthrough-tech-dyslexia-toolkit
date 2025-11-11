@@ -2,7 +2,6 @@
 ### AI-Powered Learning Tools for Dyslexia-Friendly Education
 
 **A Break Through Tech AI Mentorship Initiative**  
-**Project Lead:** [Anupama Garani](https://www.linkedin.com/in/anupama-garani/)  | Break Through Tech Austin Mentor  
 **Cohort:** Fall 2025 Austin Chapter
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
