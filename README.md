@@ -38,16 +38,16 @@ This project is led by **Anupama Garani** as part of her mentorship work with Br
 
 ### Student Contributors
 
-| Name | Role | Focus Area |
-|------|------|------------|
-| Sam | Technical Lead & Research | Architecture & Speech-to-Text |
-| Shreya | NLP Engineer | Text Simplification |
-| Anusha Kokala | NLP Engineer | Text Simplification |
-| Janice Kennedy | ML Engineer | Concept Extraction |
-| Maha Shanawaz Syeda | ML Engineer | Concept Extraction |
-| Caroline Virani | Frontend Developer | Visual Mind Maps |
-| Amshu | Frontend Developer | Visual Mind Maps |
-| Aline Jouaidi | UX/Accessibility Designer | Dyslexia-Friendly Styling |
+| Name | Role | Focus Area | LinkedIn |
+|------|------|------------|----------|
+| Sam | Technical Lead & Research | Architecture & Speech-to-Text | |
+| Shreya | NLP Engineer | Text Simplification | |
+| Anusha Kokala | NLP Engineer | Text Simplification | |
+| Janice Kennedy | ML Engineer | Concept Extraction | |
+| Maha Shanawaz Syeda | ML Engineer | Concept Extraction | |
+| Caroline Virani | Frontend Developer | Visual Mind Maps | |
+| Amshu | Frontend Developer | Visual Mind Maps | |
+| Aline Jouaidi | UX/Accessibility Designer | Dyslexia-Friendly Styling | |
 
 ---
 
@@ -227,4 +227,4 @@ If you find this toolkit helpful or believe in accessible education, please ⭐ 
 
 ---
 
-**Built with ❤️ by the Break Through Tech Austin Fall 2024 Cohort**
+**Built with ❤️ by the Break Through Tech Austin Fall 2025 Cohort**
